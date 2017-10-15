@@ -1,5 +1,6 @@
 # algotrading_sandbox
-Backtesting library with basic portfolio analytics, fetches data from AlphaVantage.co
+Backtesting library with basic portfolio analytics, fetches data from AlphaVantage.co (requires API key)
+Refer to the AlphaVantage terms of service to make use of their API https://www.alphavantage.co/terms_of_service/
 
 FUNCTIONS:
     
