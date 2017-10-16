@@ -4,7 +4,7 @@ Refer to the AlphaVantage terms of service to make use of their API https://www.
 
 FUNCTIONS:
     
-    define_envirnoment(stock_universe,initial_capital,API_key_alphavantage,Full=False,granularity="DAILY"): Must be called at the beginning of the program, downloads data and creates fundamental variables (granularity can be DAILY or INTRADAY_1M for data updated to the minute)
+    define_environment(stock_universe,initial_capital,API_key_alphavantage,Full=False,granularity="DAILY"): Must be called at the beginning of the program, downloads data and creates fundamental variables (granularity can be DAILY or INTRADAY_1M for data updated to the minute)
     
     plot_stocks(array_stock_tickers): Plots the time series of the specified stock 
     
